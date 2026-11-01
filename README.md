@@ -1,6 +1,6 @@
 # ComfyUI API Client
 
-A Python command-line tool for generating images using [ComfyUI](https://github.com/comfyanonymous/ComfyUI) through its REST API.
+A Python command-line tool for performing various tasks with [ComfyUI](https://github.com/comfyanonymous/ComfyUI) through its REST API.
 
 ## Features
 
